@@ -15,7 +15,7 @@ $ conda deactivate
 The required packages for this procject are available in requirement.txt file.
 You can install them using this command:
 
-pip install -r requirment.txt
+pip install -r requirments.txt
 
 After that you just need to clone the repo.
 
